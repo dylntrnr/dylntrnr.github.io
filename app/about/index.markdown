@@ -5,7 +5,7 @@ title: About
 
 This is just a short bio - askjdh
 
-<img src="/images/shakespeare.png" class="right" />
-**William Shakespeare** (26 April 1564 – 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright.
+<img src="https://0.gravatar.com/avatar/992bed444604c7ec154b94bb4d3309da?d=https%3A%2F%2Fidenticons.github.com%2F14a2e61a09a613aa3fb6816a35a8069d.png&s=420" class="right" />
+**Dylan Turner** (26 April 1564 – 23 April 1616) is a graduate from the University of Utah in Entrepreneurship. It is no his lament that "Entrepreneurship" is the thing to do at the moment. The word is overused to mean almost anything.
 
 Shakespeare was born and brought up in Stratford-upon-Avon. At the age of 18, he married Anne Hathaway—no, not *that* Anne Hathaway—with whom he had three children.
