@@ -8,7 +8,7 @@
 		
 			<item>
 				<title>newblog</title>
-				<description>&lt;p&gt;Today I switched my old Jekyll blog over to a yeoman jekyll generator at https://github.com/robwierzbowski/generator-jekyllrb&lt;/p&gt;
+				<description>&lt;p&gt;Today I switched my old Jekyll blog over to a yeoman jekyll generator at &lt;a href=&quot;https://github.com/robwierzbowski/generator-jekyllrb&quot;&gt;https://github.com/robwierzbowski/generator-jekyllrb&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It was pretty easy to get to work. Just follow the directions in the readme:&lt;/p&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;text language-text&quot; data-lang=&quot;text&quot;&gt;Wrapping an existing site in Yeoman isn&amp;#39;t hard, but it takes a little manual editing.
@@ -45,7 +45,7 @@ git subtree push --prefix dist origin gh-pages [or master for user/org]
 		
 			<item>
 				<title>my second post</title>
-				<description>&lt;p&gt;Ok, so this post is being written on emacs from my t1-micro amazon instance. It&amp;#39;s been pretty interesting to learn how to use amazon web services. I would like to learn amazon S3(?) next and be able to serve static content a little more efficently. I just realized I need to have a spell checker or something for emacs - becauase otherwise I am a terrible speller. &lt;/p&gt;
+				<description>&lt;p&gt;Ok, so this post is being written on emacs from my t1-micro amazon instance. It&amp;rsquo;s been pretty interesting to learn how to use amazon web services. I would like to learn amazon S3(?) next and be able to serve static content a little more efficently. I just realized I need to have a spell checker or something for emacs - becauase otherwise I am a terrible speller. &lt;/p&gt;
 
 &lt;p&gt;If I indent four spaces I think it does something different. I think it is a code block, which means this will proably look weird.&lt;/p&gt;
 </description>
@@ -56,11 +56,11 @@ git subtree push --prefix dist origin gh-pages [or master for user/org]
 		
 			<item>
 				<title>my first real post</title>
-				<description>&lt;p&gt;So I&amp;#39;m not much of a writer, but I want to take my hand at writing things down that I think would be useful. &lt;/p&gt;
+				<description>&lt;p&gt;So I&amp;rsquo;m not much of a writer, but I want to take my hand at writing things down that I think would be useful. &lt;/p&gt;
 
-&lt;p&gt;For example I am writing this in Vim right now. I&amp;#39;ve never used Vim and it seems pretty cool. You can move around with h j k l. Go to the begining of a line with 0 and the end with $. &lt;/p&gt;
+&lt;p&gt;For example I am writing this in Vim right now. I&amp;rsquo;ve never used Vim and it seems pretty cool. You can move around with h j k l. Go to the begining of a line with 0 and the end with $. &lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;ve found it useful to be able to select multiple lines by going into Visual Block mode with &lt;code&gt;Ctrl - v&lt;/code&gt;. Then you can select multiple lines and delete them with d. Make a mistake? Undo with u. Redo? Ctrl - r.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve found it useful to be able to select multiple lines by going into Visual Block mode with &lt;code&gt;Ctrl - v&lt;/code&gt;. Then you can select multiple lines and delete them with d. Make a mistake? Undo with u. Redo? Ctrl - r.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Here is a long quote right?&lt;/p&gt;
@@ -73,7 +73,7 @@ git subtree push --prefix dist origin gh-pages [or master for user/org]
 		
 			<item>
 				<title>New Post from prose.io</title>
-				<description>&lt;p&gt;This is a new post I made from prose.io. No command line needed (I like command line, but some people don&amp;#39;t, so this would be nice if it worked). &lt;/p&gt;
+				<description>&lt;p&gt;This is a new post I made from prose.io. No command line needed (I like command line, but some people don&amp;rsquo;t, so this would be nice if it worked). &lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Here is a long quote right?&lt;/p&gt;
@@ -103,7 +103,7 @@ git subtree push --prefix dist origin gh-pages [or master for user/org]
 		
 			<item>
 				<title>Welcome to Jekyll!</title>
-				<description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+				<description>&lt;p&gt;You&amp;rsquo;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
 To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
@@ -115,7 +115,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&amp;#39;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&amp;rsquo;s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<pubDate>Fri, 12 Jul 2013 01:53:22 -0600</pubDate>
 				<link>/jekyll/update/2013/07/12/welcome-to-jekyll.html</link>
