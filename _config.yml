@@ -44,8 +44,8 @@ paginate_path: 'page:num'
 # Markdown library
 markdown: redcarpet
 # Markdown library options
-# redcarpet:
-  # extensions: ['fenced_code_blocks', 'smart']
+redcarpet:
+  extensions: ['fenced_code_blocks', 'smart', 'autolink']
 
 # Use Pygments to highlight code blocks
 pygments: true
